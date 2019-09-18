@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "Apples",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Bananas",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Dates",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Figs",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Finger limes",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Grapes",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Guava",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Kiwifruit",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Limes",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Mangosteens",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Nashi",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Oranges (Valencia)",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Passionfruit",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Papaw",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Pears",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Plums",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Pomegranates",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Quinces",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Tamarillo",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Bok Choy",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Beans",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Broccoli",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Capsicums",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Chestnuts",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Cucumbers",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Eggplant",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Eschallots",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Kale",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Lettuce",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Mushrooms",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Okra",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Onions",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Potatoes",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Pumpkin",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Sweetcorn",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Swiss chard",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Tomatoes",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Zucchini",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "march"
+  },
+  {
+    "name": "Apples",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Avocados",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Bananas",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Custard apples",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Dates",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Dragon Fruit",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Finger limes",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Grapes",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Guava",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Kiwifruit",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Limes",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Mandarins (Imperial)",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Nashi",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Pears",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Passionfruit",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Persimmons",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Pomegranates",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Quinces",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Tamarillo",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Bok Choy",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Beans",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Broccoli",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Brussels sprouts",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Cabbage",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Capsicums",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Cauliflower",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Chestnuts",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Eggplant",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Eschallots",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Fennel",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Kale",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Leeks",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Mushrooms",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Okra",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Potatoes",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Pumpkin",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Silverbeet",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Swiss chard",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Turnips",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Watercress",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "april"
+  },
+  {
+    "name": "Apples",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Avocados",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Bananas",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Custard apples",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Dates",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Grapes",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Kiwifruit",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Lemons",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Mandarins (Imperial)",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Nashi",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Oranges (Navel)",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Pears",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Persimmons",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Pomegranates",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Quinces",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Rhubarb",
+    "type": "fruit",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Bok Choy",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Broccoli",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Brussels sprouts",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Cabbage",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Carrots",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Cauliflower",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Celery",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Celeriac",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Chestnuts",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Eggplant",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Fennel",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Kale",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Ginger",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Leeks",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Mushrooms",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Okra",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Parsnips",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Silverbeet",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Sweet potato",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Swiss chard",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Turnips",
+    "type": "vegetable",
+    "season": "autumn",
+    "month": "may"
+  },
+  {
+    "name": "Apricots",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Banana",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Blackberries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Blueberries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Raspberries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Red & White Currants",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Strawberries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Cherries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Grapes",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Lychees",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Mangoes",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Melons",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Nectarines",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Oranges (Valencia)",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Papaya",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Passionfruit",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Papaw",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Peaches",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Pineapple",
+    "type": "fruit",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Asparagus",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Green beans",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Flat beans",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Butter beans",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Capsicum",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Celery",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Cucumbers",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Eggplant",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Lettuce",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Mushrooms",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Onions",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Peas",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Radish",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Sweetcorn",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Tomatoes",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Watercress",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Zucchini",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "december"
+  },
+  {
+    "name": "Apricots",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Avocados",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Bananas",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Blackberries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Blueberries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Raspberries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Strawberries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Cherries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Grapes",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Limes",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Lychees",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Mangoes",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Melons",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Nectarines",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Oranges (Valencia)",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Passionfruit",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Peaches",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Pears (Williams)",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Pears (Paradise)",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Pineapple",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Plums",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Rambutans",
+    "type": "fruit",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Asparagus",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Green beans",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Flat beans",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Butter beans",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Capsicums",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Celery",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Cucumbers",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Eggplant",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Lettuce",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Mushrooms",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Onions",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Okra",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Peas",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Potatoes",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Radish",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Sweetcorn",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Tomatoes",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Zucchini",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "january"
+  },
+  {
+    "name": "Avocados",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Blueberries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Raspberries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Strawberries",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Figs",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Grapes",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Limes",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Lychees",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Mangosteens",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Melons",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Nectarines",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Oranges (Valencia)",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Passionfruit",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Peaches",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Pears (Howell)",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Pears (Williams)",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Pineapples",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Plums",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Prickly Pears",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Rambutans",
+    "type": "fruit",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Butter beans",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Flat beans",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Green beans",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Capsicum",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Celery",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Chillies",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Chokos",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Cucumbers",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Eggplant",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Lettuce",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Mushrooms",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Onions",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Okra",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Sugar snap peas",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Radish",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Squash",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Sweetcorn",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Tomatoes",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Zucchini",
+    "type": "vegetable",
+    "season": "summer",
+    "month": "february"
+  },
+  {
+    "name": "Apples (Lady Williams)",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Strawberries",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Grapefruit",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Lemons",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Mandarins (Honey Murcot)",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Rockmelon",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Blood oranges",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Oranges (Seville)",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Papaw",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Papaya",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Pineapples",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Pomelo",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Tangelos",
+    "type": "fruit",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Artichokes (Globe)",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Asian greens",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Asparagus",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Broad beans",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Green beans",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Beetroot",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Broccoli",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Carrots",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Cauliflower",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Chillies",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Garlic",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Kale",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Lettuce",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Mushrooms",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Spring onions",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Green onion shallots",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Peas",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Potatoes",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Silverbeet",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "september"
+  },
+  {
+    "name": "Avocados",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Banana",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Blueberries",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Grapefruit",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Mangoes",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Melons",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Oranges (Valencia)",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Papaw",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Papaya",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Passionfruit",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Pineapples",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Pomelo",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Strawberries",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Tangelos",
+    "type": "fruit",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Artichokes (Globe)",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Asian greens",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Asparagus",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Broad beans",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Green beans",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Beetroot",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Cucumber",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Chillies",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Fennel",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Garlic",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Kale",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Lettuce",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Mushrooms",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Spring onions",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Green onion shallots",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Peas",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Potatoes",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Silverbeet",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Watercress",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Zucchini",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "october"
+  },
+  {
+    "name": "Avocados",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Banana",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Blueberries",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Cherries",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Grapefruit",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Mangoes",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Melons",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Mulberries",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Oranges (Valencia)",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Papaw",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Papaya",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Passionfruit",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Pineapples",
+    "type": "fruit",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Artichokes (Globe)",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Asian greens",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Asparagus",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Green beans",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Cucumber",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Chillies",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Spring onions",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Green onion shallots",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Peas",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Potatoes",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Silverbeet",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Sweetcorn",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Tomatoes",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Watercress",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Zucchini",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Zucchini flowers",
+    "type": "vegetable",
+    "season": "spring",
+    "month": "november"
+  },
+  {
+    "name": "Apples",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Avocados",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Banana",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Custard apples",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Dates",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Grapefruit",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Kiwifruit",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Lemons",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Mandarins",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Nashi",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Oranges (Cara Cara Navel)",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Oranges (Navel)",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Passionfruit",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Pears",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Pomelo",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Quince",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Rhubarb",
+    "type": "fruit",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Beetroot",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Broccoli",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Brussels sprouts",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Cabbage",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Carrots",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Cauliflower",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Celeriac",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Celery",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Fennel",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Jerusalem artichokes",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Kale",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Kohlrabi",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Leeks",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Onions",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Parsnips",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Potatoes",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Pumpkin",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Radicchio",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Silverbeet",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Swede",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Sweet potato",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Turnips",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "june"
+  },
+  {
+    "name": "Apples",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Avocados",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Banana",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Custard apples",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Dates",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Grapefruit",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Kiwifruit",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Lemons",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Mandarins",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Nashi",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Oranges (Cara Cara Navel)",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Oranges (Navel)",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Pomelo",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Quince",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Rhubarb",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Strawberries",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Tangelos",
+    "type": "fruit",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Beetroot",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Broccoli",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Brussels sprouts",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Cabbage",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Carrots",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Cauliflower",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Celeriac",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Celery",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Fennel",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Jerusalem artichokes",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Kale",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Kohlrabi",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Leeks",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Onions",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Parsnips",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Potatoes",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Pumpkin",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Radicchio",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Silverbeet",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Swede",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Sweet potato",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Turnips",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "july"
+  },
+  {
+    "name": "Apples",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Avocados",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Banana",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Cumquat",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Grapefruit",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Kiwifruit",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Lemons",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Mandarins",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Blood oranges",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Oranges (Navel)",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Pomelo",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Rhubarb",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Strawberries",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Tangelos",
+    "type": "fruit",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Beetroot",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Broccoli",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Brussels sprouts",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Cabbage",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Carrots",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Cauliflower",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Celeriac",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Celery",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Fennel",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Jerusalem artichokes",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Kale",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Kohlrabi",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Leeks",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Okra",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Onions",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Parsnips",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Potatoes",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Pumpkin",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Silverbeet",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Swede",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Sweet potato",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  },
+  {
+    "name": "Turnips",
+    "type": "vegetable",
+    "season": "winter",
+    "month": "august"
+  }
+]
