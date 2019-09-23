@@ -1,12 +1,17 @@
 import React from 'react';
 
-import seasonalData from './lib/parser';
+import getData from './lib/parser';
+import Header from './components/Header';
 
 export default class App extends React.Component {
   async componentDidMount() {
-    console.log(await seasonalData());
+    console.log(getData());
   }
   render() {
-    return <p>Hello</p>;
+    return (
+      <div>
+        <Header />
+      </div>
+    );
   }
 }
