@@ -1,9 +1,20 @@
 import { groupBy, map, uniq } from 'lodash';
 
-import { Item } from '../types/item';
+import { Item, RawItem } from '../types/item';
 import data from '../data/fruit-and-veg.json';
 
-export default function parseData() {
+export default function(): Item[] {
+  return group(
+    data.map(x => ({
+      type: x.type,
+      name: x.name,
+      months: [x.month],
+      seasons: [x.season]
+    }))
+  );
+}
+
+export function transformData(data: RawItem[]): Item[] {
   return group(
     data.map(x => ({
       type: x.type,

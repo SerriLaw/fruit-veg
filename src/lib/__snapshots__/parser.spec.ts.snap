@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Parser should transform raw data into Item arrays 1`] = `
+Array [
+  Object {
+    "months": Array [
+      "march",
+    ],
+    "name": "Apples",
+    "seasons": Array [
+      "autumn",
+    ],
+    "type": "fruit",
+  },
+  Object {
+    "months": Array [
+      "april",
+      "march",
+    ],
+    "name": "Bananas",
+    "seasons": Array [
+      "autumn",
+    ],
+    "type": "fruit",
+  },
+  Object {
+    "months": Array [
+      "september",
+      "december",
+    ],
+    "name": "Potatoes",
+    "seasons": Array [
+      "spring",
+      "summer",
+    ],
+    "type": "vegetable",
+  },
+]
+`;
