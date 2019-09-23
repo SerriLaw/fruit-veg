@@ -4,7 +4,9 @@ import { startCase } from 'lodash';
 
 import { months } from '../../data/months';
 
-interface Props {}
+interface Props {
+  onMonthChange: (month: string) => void;
+}
 interface State {
   selectedMonth: string;
 }
@@ -18,10 +20,12 @@ export default class MonthList extends React.PureComponent<Props, State> {
     this.state = {
       selectedMonth: this.currentMonth
     };
+    this.props.onMonthChange(this.currentMonth);
   }
 
   handleSelect = (e: any) => {
     this.setState({ selectedMonth: e.value });
+    this.props.onMonthChange(e.value);
   };
 
   render() {
