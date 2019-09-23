@@ -1,7 +1,9 @@
 import React from 'react';
+import { sortBy } from 'lodash';
 
 import { Item } from '../../types/item';
 import CopyText from '../Text/Copy';
+import { byMonth } from '../../lib/filters';
 
 interface Props {
   items: Item[];
@@ -10,8 +12,9 @@ interface Props {
 
 export default class Grid extends React.PureComponent<Props> {
   render() {
-    const items = this.props.items.filter(x =>
-      x.months.includes(this.props.month)
+    const items = sortBy(
+      byMonth(this.props.items, this.props.month),
+      x => x.name
     );
 
     return (
