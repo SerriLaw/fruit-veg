@@ -4,6 +4,10 @@ declare module 'evergreen-ui' {
     value: string | number;
   }
 
+  interface TextProps {
+    size?: number;
+  }
+
   export interface SelectMenuProps {
     selected: string;
     hasTitle: boolean;
@@ -21,4 +25,7 @@ declare module 'evergreen-ui' {
     style?: any;
   }
   export class Icon extends React.PureComponent<IconProps> {}
+  export class Button extends React.PureComponent<any> {}
+  export class Heading extends React.PureComponent<TextProps> {}
+  export class Paragraph extends React.PureComponent<TextProps> {}
 }

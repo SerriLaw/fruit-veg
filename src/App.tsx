@@ -3,6 +3,7 @@ import React from 'react';
 import getData from './lib/parser';
 import getSeason from './lib/seasons';
 import Header from './components/Header';
+import Grid from './components/Grid';
 import { Item } from './types/item';
 import { Season } from './lib/enum';
 
@@ -34,6 +35,8 @@ export default class App extends React.Component<{}, State> {
           onMonthChange={this.handleMonthChange}
           season={this.state.season}
         />
+
+        <Grid items={this.data} month={this.state.month} />
       </div>
     );
   }
