@@ -28,7 +28,7 @@ export default class Grid extends React.PureComponent<Props> {
         marginVertical={20}
       >
         {items.map(i => (
-          <CardBlock key={i.name} text={i.name} />
+          <CardBlock key={i.name} item={i} />
         ))}
       </Block>
     );

@@ -1,5 +1,5 @@
 import React from 'react';
-import { SelectMenu, Heading, Button } from 'evergreen-ui';
+import { SelectMenu, Button } from 'evergreen-ui';
 import { startCase } from 'lodash';
 
 import { months } from '../../data/months';
@@ -12,7 +12,7 @@ interface State {
   selectedMonth: string;
 }
 
-export default class MonthList extends React.PureComponent<Props, State> {
+export default class MonthChanger extends React.PureComponent<Props, State> {
   currentMonth: string;
   constructor(props: Props) {
     super(props);

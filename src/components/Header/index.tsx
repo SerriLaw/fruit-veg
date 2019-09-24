@@ -1,8 +1,8 @@
 import React from 'react';
-import { startCase } from 'lodash';
 
 import Block from '../Block';
-import MonthList from './MonthList';
+import MonthChanger from './MonthChanger';
+import SeasonDisplay from './SeasonDisplay';
 import Heading from '../Text/Heading';
 import { Season } from '../../lib/enum';
 
@@ -13,7 +13,6 @@ interface Props {
 
 export default class Header extends React.PureComponent<Props> {
   render() {
-    const season = startCase(this.props.season);
     return (
       <Block
         flex={1}
@@ -29,8 +28,8 @@ export default class Header extends React.PureComponent<Props> {
           alignItems="center"
           justifyContent="space-between"
         >
-          <Heading size={600} text={season} />
-          <MonthList onMonthChange={this.props.onMonthChange} />
+          <SeasonDisplay season={this.props.season} />
+          <MonthChanger onMonthChange={this.props.onMonthChange} />
         </Block>
       </Block>
     );
