@@ -1,9 +1,11 @@
 import React from 'react';
 import { sortBy } from 'lodash';
 
-import { Item } from '../../types/item';
 import CopyText from '../Text/Copy';
+import CardBlock from './CardBlock';
+import { Item } from '../../types/item';
 import { byMonth } from '../../lib/filters';
+import Block from '../Block';
 
 interface Props {
   items: Item[];
@@ -18,11 +20,17 @@ export default class Grid extends React.PureComponent<Props> {
     );
 
     return (
-      <div>
+      <Block
+        display="flex"
+        flexWrap="wrap"
+        justifyContent="center"
+        padding={20}
+        marginVertical={20}
+      >
         {items.map(i => (
-          <CopyText key={i.name} text={i.name} />
+          <CardBlock key={i.name} text={i.name} />
         ))}
-      </div>
+      </Block>
     );
   }
 }

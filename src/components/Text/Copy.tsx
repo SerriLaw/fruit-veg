@@ -3,9 +3,12 @@ import { Paragraph } from 'evergreen-ui';
 
 interface Props {
   text: string;
+  align?: 'center' | 'left' | 'right';
   size?: number;
 }
 
-export default ({ text, size = 400 }: Props) => (
-  <Paragraph size={size}>{text}</Paragraph>
+export default ({ text, size = 400, align = 'left' }: Props) => (
+  <Paragraph size={size} textAlign={align} margin={2}>
+    {text}
+  </Paragraph>
 );

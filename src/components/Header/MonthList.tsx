@@ -3,6 +3,7 @@ import { SelectMenu, Heading, Button } from 'evergreen-ui';
 import { startCase } from 'lodash';
 
 import { months } from '../../data/months';
+import Block from '../Block';
 
 interface Props {
   onMonthChange: (month: string) => void;
@@ -38,7 +39,7 @@ export default class MonthList extends React.PureComponent<Props, State> {
 
   render() {
     return (
-      <div>
+      <Block display="flex" width={230} justifyContent="flex-end">
         <SelectMenu
           hasTitle={false}
           options={months.map(m => ({ label: startCase(m), value: m }))}
@@ -46,7 +47,7 @@ export default class MonthList extends React.PureComponent<Props, State> {
           onSelect={this.handleSelect}
           closeOnSelect={true}
         >
-          <Button iconBefore="chevron-down" appearance="minimal">
+          <Button iconAfter="chevron-down" appearance="minimal">
             {startCase(this.state.selectedMonth)}
           </Button>
         </SelectMenu>
@@ -59,7 +60,7 @@ export default class MonthList extends React.PureComponent<Props, State> {
         >
           Reset
         </Button>
-      </div>
+      </Block>
     );
   }
 }
