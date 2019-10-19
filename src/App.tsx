@@ -4,9 +4,10 @@ import getData from './lib/parser';
 import getSeason from './lib/seasons';
 import Header from './components/Header';
 import Grid from './components/Grid';
+import ItemList from './components/ItemList';
 import { Item } from './types/item';
 import { Season } from './lib/enum';
-import { editSelectionList } from './lib/selectItems';
+import { editSelectionList, removeFromSelection } from './lib/selectItems';
 
 interface State {
   month: string;
@@ -36,12 +37,22 @@ export default class App extends React.Component<{}, State> {
     this.setState({ selectedItems });
   };
 
+  handleItemDelete = (item: Item) => {
+    const selectedItems = removeFromSelection(item, this.state.selectedItems);
+    this.setState({ selectedItems });
+  };
+
   render() {
     return (
       <div>
         <Header
           onMonthChange={this.handleMonthChange}
           season={this.state.season}
+        />
+
+        <ItemList
+          items={this.state.selectedItems}
+          onClick={this.handleItemDelete}
         />
 
         <Grid

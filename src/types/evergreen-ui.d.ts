@@ -25,7 +25,20 @@ declare module 'evergreen-ui' {
     style?: any;
   }
   export class Icon extends React.PureComponent<IconProps> {}
-  export class Button extends React.PureComponent<any> {}
+
+  interface ButtonProps {
+    intent?: 'none' | 'success' | 'danger' | 'warning';
+    appearance?: 'primary' | 'minimal';
+    iconBefore?: string;
+    iconAfter?: string;
+    disabled?: boolean;
+    className?: string;
+    height?: number;
+    paddingBottom?: number;
+    paddingTop?: number;
+    onClick?: (...args: any) => void;
+  }
+  export class Button extends React.PureComponent<ButtonProps> {}
   export class Heading extends React.PureComponent<TextProps> {}
   export class Paragraph extends React.PureComponent<any> {}
   export class Pane extends React.PureComponent<any> {}

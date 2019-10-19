@@ -1,7 +1,6 @@
 import React from 'react';
 import { sortBy } from 'lodash';
 
-import CopyText from '../Text/Copy';
 import CardBlock from './CardBlock';
 import { Item } from '../../types/item';
 import { byMonth } from '../../lib/filters';

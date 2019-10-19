@@ -1,9 +1,10 @@
 import React from 'react';
-import { SelectMenu, Button } from 'evergreen-ui';
+import { SelectMenu } from 'evergreen-ui';
 import { startCase } from 'lodash';
 
 import { months } from '../../data/months';
 import Block from '../Block';
+import Button from '../Button';
 
 interface Props {
   onMonthChange: (month: string) => void;
