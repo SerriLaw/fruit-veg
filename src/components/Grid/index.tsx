@@ -10,6 +10,7 @@ import Block from '../Block';
 interface Props {
   items: Item[];
   month: string;
+  onItemClick: (i: Item) => void;
 }
 
 export default class Grid extends React.PureComponent<Props> {
@@ -28,7 +29,7 @@ export default class Grid extends React.PureComponent<Props> {
         marginVertical={20}
       >
         {items.map(i => (
-          <CardBlock key={i.name} item={i} />
+          <CardBlock key={i.name} item={i} onClick={this.props.onItemClick} />
         ))}
       </Block>
     );

@@ -6,10 +6,12 @@ import Header from './components/Header';
 import Grid from './components/Grid';
 import { Item } from './types/item';
 import { Season } from './lib/enum';
+import { editSelectionList } from './lib/selectItems';
 
 interface State {
   month: string;
   season: Season;
+  selectedItems: Item[];
 }
 
 export default class App extends React.Component<{}, State> {
@@ -19,13 +21,19 @@ export default class App extends React.Component<{}, State> {
     this.data = getData();
     this.state = {
       month: '',
-      season: Season.Summer
+      season: Season.Summer,
+      selectedItems: []
     };
   }
 
   handleMonthChange = (month: string) => {
     const season = getSeason(month);
     this.setState({ month, season: season || Season.Summer });
+  };
+
+  handleItemSelect = (item: Item) => {
+    const selectedItems = editSelectionList(item, this.state.selectedItems);
+    this.setState({ selectedItems });
   };
 
   render() {
@@ -36,7 +44,11 @@ export default class App extends React.Component<{}, State> {
           season={this.state.season}
         />
 
-        <Grid items={this.data} month={this.state.month} />
+        <Grid
+          items={this.data}
+          month={this.state.month}
+          onItemClick={this.handleItemSelect}
+        />
       </div>
     );
   }

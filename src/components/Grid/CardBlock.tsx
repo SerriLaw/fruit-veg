@@ -7,6 +7,7 @@ import { Item } from '../../types/item';
 
 interface Props {
   item: Item;
+  onClick: (i: Item) => void;
 }
 
 export const Icon = ({ a }: { a: string }) => {
@@ -17,10 +18,11 @@ export const Icon = ({ a }: { a: string }) => {
   );
 };
 
-export default ({ item }: Props) => (
+export default ({ item, onClick }: Props) => (
   <Block
     background="tint1"
     border="muted"
+    borderRadius={5}
     width={120}
     height={120}
     margin={24}
@@ -29,6 +31,7 @@ export default ({ item }: Props) => (
     alignItems="center"
     justifyContent="center"
     hoverElevation={1}
+    onClick={onClick}
   >
     <Block display="flex">
       <Copy text={item.name} align="center" />
