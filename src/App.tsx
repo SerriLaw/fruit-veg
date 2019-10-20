@@ -4,7 +4,8 @@ import getData from './lib/parser';
 import getSeason from './lib/seasons';
 import Header from './components/Header';
 import Grid from './components/Grid';
-import ItemList from './components/ItemList';
+
+import ActionList from './components/ActionList';
 import { Item } from './types/item';
 import { Season } from './lib/enum';
 import { editSelectionList, removeFromSelection } from './lib/selectItems';
@@ -43,6 +44,7 @@ export default class App extends React.Component<{}, State> {
   };
 
   render() {
+    const { selectedItems } = this.state;
     return (
       <div>
         <Header
@@ -50,10 +52,9 @@ export default class App extends React.Component<{}, State> {
           season={this.state.season}
         />
 
-        <ItemList
-          items={this.state.selectedItems}
-          onClick={this.handleItemDelete}
-        />
+        {/* <ItemList items={selectedItems} onClick={this.handleItemDelete} /> */}
+
+        <ActionList items={selectedItems} visible={!!selectedItems.length} />
 
         <Grid
           items={this.data}
