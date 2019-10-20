@@ -20,18 +20,15 @@ TODO:
 As a user, I want to save ingredients so that I can compile my shopping list
 * Select and save to basket?
 
-As a user, I want to permanently exclude items I do not like so that the results are more tailered to me
-* Select and hide (in cookies)
-
 As a user, I want to search for specific ingredients
 * Filter by type
 * Search (filter) by key word
-* Change icon for fruit vs veg
 
 
 OTHER:
 * fix header colour
 * add coverage to tests
+* Change icon for fruit vs veg
 
 
 
