@@ -7,11 +7,12 @@ import { pluralise } from '../../lib/strings';
 interface Props {
   visible: boolean;
   items: Item[];
+  onHideItems: () => void;
 }
 
 export default class ActionList extends React.Component<Props> {
   handleHideItems = () => {
-    console.log('Hiding Items', this.props.items);
+    this.props.onHideItems();
   };
 
   render() {
