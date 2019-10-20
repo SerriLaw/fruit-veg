@@ -1,24 +1,38 @@
 import React from 'react';
-import { GiCarrot, GiShinyApple } from 'react-icons/gi';
 
-import Block from '../Block';
+import Block, { BlockWithTheme } from '../Block';
 import Copy from '../Text/Copy';
 import { Item } from '../../types/item';
-import CardItem from './CardIcon';
+import CardIcon from './CardIcon';
+import Checkmark from './Checkmark';
 
 interface Props {
   item: Item;
   onClick: (i: Item) => void;
 }
 
-export default class CardBlock extends React.PureComponent<Props> {
+interface State {
+  selected: boolean;
+}
+
+export default class CardBlock extends React.PureComponent<Props, State> {
+  constructor(props: Props) {
+    super(props);
+    this.state = {
+      selected: false
+    };
+  }
+
   handleClick = () => {
+    this.setState({ selected: !this.state.selected });
     this.props.onClick(this.props.item);
   };
+
   render() {
+    const { selected } = this.state;
     return (
-      <Block
-        background="tint1"
+      <BlockWithTheme
+        background={selected ? 'blueTint' : 'tint1'}
         border="muted"
         borderRadius={5}
         width={120}
@@ -30,14 +44,18 @@ export default class CardBlock extends React.PureComponent<Props> {
         justifyContent="center"
         hoverElevation={1}
         onClick={this.handleClick}
+        themeKey={selected ? 'palette.blue.light' : 'palette.neutral.lightest'}
       >
+        <Block display="flex">
+          <Checkmark selected={selected} />
+        </Block>
         <Block display="flex">
           <Copy text={this.props.item.name} align="center" />
         </Block>
         <Block display="flex" margin={2}>
-          <CardItem type={this.props.item.type} />
+          <CardIcon type={this.props.item.type} />
         </Block>
-      </Block>
+      </BlockWithTheme>
     );
   }
 }
