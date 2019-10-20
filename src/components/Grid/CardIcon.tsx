@@ -1,10 +1,25 @@
 import React from 'react';
-import { GiCarrot, GiShinyApple } from 'react-icons/gi';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faAppleAlt, faCarrot } from '@fortawesome/free-solid-svg-icons';
 
-export default function Icon({ type }: { type: string }) {
-  return type === 'fruit' ? (
-    <GiShinyApple color="#009933" size={20} />
+import withTheme from '../../HOCs/themed';
+
+interface Props {
+  type: string;
+}
+
+interface PropsTheme extends Props {
+  themeKey: string;
+  foregroundColor?: boolean;
+}
+
+export default function Icon(props: any) {
+  console.log(props);
+  return props.type === 'fruit' ? (
+    <FontAwesomeIcon icon={faAppleAlt} color={props.color || ''} />
   ) : (
-    <GiCarrot color="#ff9933" size={20} />
+    <FontAwesomeIcon icon={faCarrot} color={props.color || ''} />
   );
 }
+
+export const IconWithTheme = (props: PropsTheme) => withTheme(Icon, props);

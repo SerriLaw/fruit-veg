@@ -7,7 +7,7 @@ interface Props {
   size?: number;
 }
 
-export default ({ text, size = 400, align = 'left' }: Props) => (
+export default ({ text, size = 500, align = 'left' }: Props) => (
   <Paragraph size={size} textAlign={align} margin={2}>
     {text}
   </Paragraph>

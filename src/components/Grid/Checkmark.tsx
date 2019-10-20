@@ -1,12 +1,13 @@
 import React from 'react';
-import { Icon } from 'evergreen-ui';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCheckSquare } from '@fortawesome/free-solid-svg-icons';
+import { faSquare } from '@fortawesome/free-regular-svg-icons';
 
 export default (props: { selected: boolean }) => {
   return (
-    <Icon
-      icon={props.selected ? 'tick-circle' : 'circle'}
-      color={props.selected ? 'selected' : 'muted'}
-      style={{ opacity: props.selected ? 1 : 0.5 }}
+    <FontAwesomeIcon
+      icon={props.selected ? faCheckSquare : faSquare}
+      color={props.selected ? '#1070CA' : 'lightGray'}
     />
   );
 };

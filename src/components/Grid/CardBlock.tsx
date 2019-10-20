@@ -3,7 +3,7 @@ import React from 'react';
 import Block, { BlockWithTheme } from '../Block';
 import Copy from '../Text/Copy';
 import { Item } from '../../types/item';
-import CardIcon from './CardIcon';
+import { IconWithTheme } from './CardIcon';
 import Checkmark from './Checkmark';
 
 interface Props {
@@ -41,19 +41,41 @@ export default class CardBlock extends React.PureComponent<Props, State> {
         display="flex"
         flexDirection="column"
         alignItems="center"
-        justifyContent="center"
+        justifyContent="space-between"
         hoverElevation={1}
         onClick={this.handleClick}
-        themeKey={selected ? 'palette.blue.light' : 'palette.neutral.lightest'}
+        themeKey={selected ? 'palette.blue.light' : 'palette.blue.lightest'}
       >
-        <Block display="flex">
+        <Block
+          display="flex"
+          flexDirection="row"
+          justifyContent="space-between"
+          alignSelf="flex-start"
+          padding={7}
+          width="100%"
+        >
           <Checkmark selected={selected} />
+          <IconWithTheme
+            type={this.props.item.type}
+            themeKey={
+              selected
+                ? this.props.item.type === 'fruit'
+                  ? 'palette.green.base'
+                  : 'palette.red.base'
+                : 'palette.neutral.base'
+            }
+            foregroundColor
+          />
         </Block>
-        <Block display="flex">
+
+        <Block
+          display="flex"
+          width="100%"
+          justifyContent="center"
+          alignItems="center"
+          flex={1}
+        >
           <Copy text={this.props.item.name} align="center" />
-        </Block>
-        <Block display="flex" margin={2}>
-          <CardIcon type={this.props.item.type} />
         </Block>
       </BlockWithTheme>
     );
