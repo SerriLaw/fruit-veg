@@ -4,6 +4,7 @@ import Button from '../Button';
 interface Props {
   text: string;
   icon: string;
+  intent?: 'none' | 'success' | 'danger' | 'warning';
   onClick: () => void;
 }
 
@@ -13,6 +14,7 @@ export default (props: Props) => {
       onClick={props.onClick}
       iconBefore={props.icon}
       appearance="minimal"
+      intent={props.intent || 'none'}
     >
       {props.text}
     </Button>

@@ -55,11 +55,11 @@ export default class MonthChanger extends React.PureComponent<Props, State> {
 
         <Button
           appearance="minimal"
-          intent="warning"
+          intent="danger"
           iconBefore="history"
           onClick={this.handleReset}
         >
-          Reset
+          Reset Month
         </Button>
       </Block>
     );

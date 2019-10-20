@@ -46,8 +46,12 @@ export default class App extends React.Component<{}, State> {
     this.setState({ items: newItems, selectedItems: [] });
   };
 
+  handleRestoreItems = () => {
+    this.setState({ items: getData(), selectedItems: [] });
+  };
+
   render() {
-    const { selectedItems } = this.state;
+    const { selectedItems, items } = this.state;
     return (
       <div>
         <Header
@@ -55,12 +59,11 @@ export default class App extends React.Component<{}, State> {
           season={this.state.season}
         />
 
-        {/* <ItemList items={selectedItems} onClick={this.handleItemDelete} /> */}
-
         <ActionList
-          items={selectedItems}
-          visible={!!selectedItems.length}
+          items={items}
+          selectedItemsCount={selectedItems.length}
           onHideItems={this.handleHideItems}
+          onRestoreItems={this.handleRestoreItems}
         />
 
         <Grid

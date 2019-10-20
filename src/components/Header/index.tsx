@@ -19,7 +19,7 @@ export default class Header extends React.PureComponent<Props> {
         alignItems="center"
         display="flex"
         justifyContent="space-between"
-        background="tealTint"
+        background="#DDEBF7"
         padding={10}
       >
         <Heading size={900} text="What's in Season?" />

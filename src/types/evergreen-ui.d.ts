@@ -37,6 +37,7 @@ declare module 'evergreen-ui' {
     paddingBottom?: number;
     paddingTop?: number;
     onClick?: (...args: any) => void;
+    style?: any;
   }
   export class Button extends React.PureComponent<ButtonProps> {}
   export class Heading extends React.PureComponent<TextProps> {}

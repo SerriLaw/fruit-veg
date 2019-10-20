@@ -49,12 +49,32 @@ export default class CardBlock extends React.PureComponent<Props, State> {
         <Block
           display="flex"
           flexDirection="row"
-          justifyContent="space-between"
+          justifyContent="flex-start"
           alignSelf="flex-start"
           padding={7}
           width="100%"
         >
           <Checkmark selected={selected} />
+        </Block>
+
+        <Block
+          display="flex"
+          width="100%"
+          justifyContent="center"
+          alignItems="center"
+          flex={1}
+        >
+          <Copy text={this.props.item.name} align="center" />
+        </Block>
+
+        <Block
+          display="flex"
+          flexDirection="row"
+          justifyContent="flex-end"
+          alignSelf="flex-end"
+          padding={7}
+          width="100%"
+        >
           <IconWithTheme
             type={this.props.item.type}
             themeKey={
@@ -66,16 +86,6 @@ export default class CardBlock extends React.PureComponent<Props, State> {
             }
             foregroundColor
           />
-        </Block>
-
-        <Block
-          display="flex"
-          width="100%"
-          justifyContent="center"
-          alignItems="center"
-          flex={1}
-        >
-          <Copy text={this.props.item.name} align="center" />
         </Block>
       </BlockWithTheme>
     );
