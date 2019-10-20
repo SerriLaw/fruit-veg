@@ -15,5 +15,23 @@ Run `yarn` to install deps.
 Start app with `yarn start`. 
 
 
+TODO: 
+
+As a user, I want to save ingredients so that I can compile my shopping list
+* Select and save to basket?
+
+As a user, I want to search for specific ingredients
+* Filter by type
+* Search (filter) by key word
+
+
+OTHER:
+* fix header colour
+* add coverage to tests
+* Change icon for fruit vs veg
+
+
+
+
 ------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

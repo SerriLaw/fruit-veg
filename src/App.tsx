@@ -4,7 +4,8 @@ import getData from './lib/parser';
 import getSeason from './lib/seasons';
 import Header from './components/Header';
 import Grid from './components/Grid';
-import ItemList from './components/ItemList';
+
+import ActionList from './components/ActionList';
 import { Item } from './types/item';
 import { Season } from './lib/enum';
 import { editSelectionList, removeFromSelection } from './lib/selectItems';
@@ -13,17 +14,18 @@ interface State {
   month: string;
   season: Season;
   selectedItems: Item[];
+  items: Item[];
 }
 
 export default class App extends React.Component<{}, State> {
-  data: Item[];
   constructor(props: any) {
     super(props);
-    this.data = getData();
+
     this.state = {
       month: '',
       season: Season.Summer,
-      selectedItems: []
+      selectedItems: [],
+      items: getData()
     };
   }
 
@@ -37,12 +39,15 @@ export default class App extends React.Component<{}, State> {
     this.setState({ selectedItems });
   };
 
-  handleItemDelete = (item: Item) => {
-    const selectedItems = removeFromSelection(item, this.state.selectedItems);
-    this.setState({ selectedItems });
+  handleHideItems = () => {
+    const newItems = this.state.items.filter(
+      x => !this.state.selectedItems.includes(x)
+    );
+    this.setState({ items: newItems, selectedItems: [] });
   };
 
   render() {
+    const { selectedItems } = this.state;
     return (
       <div>
         <Header
@@ -50,13 +55,16 @@ export default class App extends React.Component<{}, State> {
           season={this.state.season}
         />
 
-        <ItemList
-          items={this.state.selectedItems}
-          onClick={this.handleItemDelete}
+        {/* <ItemList items={selectedItems} onClick={this.handleItemDelete} /> */}
+
+        <ActionList
+          items={selectedItems}
+          visible={!!selectedItems.length}
+          onHideItems={this.handleHideItems}
         />
 
         <Grid
-          items={this.data}
+          items={this.state.items}
           month={this.state.month}
           onItemClick={this.handleItemSelect}
         />
